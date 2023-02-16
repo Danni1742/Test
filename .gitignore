@@ -3,5 +3,6 @@
 ################################################################################
 
 /.vs
-/BranchTest
+/BranchTest/.vs
+/BranchTest/BranchTest.API/obj
 /BranchTest.Console/obj
